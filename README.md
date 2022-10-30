@@ -1,5 +1,5 @@
 ## Entrega módulo 5
-[Proyecto en vivo en GitHub Pages](https://goit-ejemplos.github.io/modulo-4/)
+[Proyecto en vivo en GitHub Pages](https://goit-ejemplos.github.io/modulo-5/)
 
 ### Objetivos
 - Creación de animaciones y transiciones a través de CSS y JavaScript. 
